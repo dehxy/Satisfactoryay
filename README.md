@@ -2,7 +2,7 @@ Title: Satisfactory 1.0 Game Save: Frengineers
 
 Description:
 
-This repository contains a game save for Satisfactory 1.0. Satisfactory is a factory-building game where players construct and automate factories to produce goods.
+This repository contains a game save for Satisfactory 1.0.
 
 How to Use:
 
